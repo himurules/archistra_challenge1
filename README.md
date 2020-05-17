@@ -4,6 +4,9 @@
 
 > This application is created to load Mapbox map based on the provided geoJSON file using Vue-Mapbox wrapper along with a sidebar for filtering the map data dynamically. 
 
+## Working Demo
+[Click here to see a working prototype (Deployed on Netlify)](https://condescending-einstein-c65a28.netlify.app/)
+
 ## Build Setup
 ``` bash
 
@@ -11,7 +14,7 @@
 npm install
 
 # serve with hot reload at localhost:8080
-npm run dev
+npm run serve
 
 # build for production with minification
 npm run build
